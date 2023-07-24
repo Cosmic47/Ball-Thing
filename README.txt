@@ -1,0 +1,2 @@
+Requires pygame to be installed.
+An attempt to simulate physical interaction between a ball and a solid surface based on empirical observations. Did not use actual physics knowledge for this, tried to derive it on my own using just maths. Imperfect, turned into a game. Press UP to jump perpendicularly to platforms, LEFT and RIGHT to move, DOWN to accelerate downwards.
